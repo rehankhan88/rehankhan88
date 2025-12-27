@@ -62,3 +62,12 @@ Prioritize security and cost-efficiency alongside reliability.</p>
 <p>If you’re hiring, building, or need a technical review of pipelines, infra, or monitoring, connect with me on LinkedIn or send a brief note to: rehankhanbjr523@gmail.com
 .
 Include one line about the role or problem you’re solving — I’ll respond faster to clear, specific requests.</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **office@devopsshack.com**
+
