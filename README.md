@@ -20,3 +20,12 @@
 </a>
 
 </p>
+<p>
+  I solve cloud, DevOps and machine-learning problems by building reliable automation, scalable infrastructure and observability so teams ship faster with less risk. I focus on practical solutions: pipeline reliability, repeatable infra, and measurable monitoring — all driven by continuous learning and real-world results.
+</p>
+<h2>TECH STACK — Tools I use daily</h2>
+<h4>Cloud & Infrastructure</h4>
+<p>
+  AWS (core services: EC2, S3, IAM, Lambda) — EKS clusters, CloudFormation, cost-aware design
+</p>
+<h4>Infrastructure as Code & Orchestration</h4>
