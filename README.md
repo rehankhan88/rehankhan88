@@ -9,12 +9,14 @@
 
 <p align="center">
   <a href="https://github.com/rehankhan88">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
- <a href="mailto:rehankhanbjr523@gmail.com">
+  <img src="https://img.shields.io/badge/GitHub-rehankhan88-black?logo=github&style=flat-square" />
+</a>
+
+ <a href="rehankhanbjr523@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-rehankhanbjr523@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-  <a href="www.linkedin.com/in/rehankhandevops">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
-  </a>
+  <a href="https://www.linkedin.com/in/rehankhandevops">
+  <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Khan-blue?logo=linkedin&style=flat-square" />
+</a>
+
 </p>
