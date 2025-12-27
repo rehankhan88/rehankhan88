@@ -20,6 +20,8 @@
 </a>
 
 </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p>
   I solve cloud, DevOps and machine-learning problems by building reliable automation, scalable infrastructure and observability so teams ship faster with less risk. I focus on practical solutions: pipeline reliability, repeatable infra, and measurable monitoring — all driven by continuous learning and real-world results.
 </p>
